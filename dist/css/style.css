@@ -7,11 +7,15 @@
 
 @media screen (max-width: 768px) {
 	.main-container {
-		/*width: 100vw;*/
+		width: 80vw;
 		border: 1px solid black;
 		padding: 0 10px 10px 10px;
 		border-radius: 10px;
-		height: 100vh;
+		height: 80vh;
+	}
+
+	footer {
+		font-size: 0.6em;
 	}
 }
 
