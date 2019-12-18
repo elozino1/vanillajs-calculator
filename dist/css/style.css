@@ -5,14 +5,14 @@
 	border-radius: 10px;
 }
 
-@media (max-width: 768px) {
+@media screen and (max-width: 768px) {
 	.main-container {
 		background-color: teal;
-		width: 80vw;
+		width: 80%;
 		border: 1px solid black;
 		padding: 0 10px 10px 10px;
 		border-radius: 10px;
-		height: 80vh;
+		height: 80%;
 	}
 
 	footer {
