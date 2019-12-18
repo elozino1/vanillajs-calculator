@@ -5,6 +5,16 @@
 	border-radius: 10px;
 }
 
+@media screen (max-width: 768px) {
+	.main-container {
+		width: 100vw;
+		border: 1px solid black;
+		padding: 0 10px 10px 10px;
+		border-radius: 10px;
+		height: 100vh;
+	}
+}
+
 .display {
 	margin-bottom: 10px;
 }
