@@ -55,7 +55,7 @@ footer {
 }
 
 #screen {
-	font-size: 2.2em;
+	font-size: 4.4em;
 	height: 110px;
 	width: 99%;
 	text-align: right;
@@ -72,6 +72,6 @@ footer {
 }
 
 button {
-	font-size: 1.8em;/*
+	font-size: 2.2em;/*
 	height: 50px;*/
 }
