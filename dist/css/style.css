@@ -20,6 +20,11 @@ footer {
 	footer {
 		font-size: 1em;
 	}
+
+	button {
+	font-size: 1.2em;
+	height: 50px;
+}
 }
 
 .display {
@@ -50,6 +55,6 @@ footer {
 }
 
 button {
-	font-size: 1.2em;
-	height: 50px;
+	font-size: 1.2em;/*
+	height: 50px;*/
 }
