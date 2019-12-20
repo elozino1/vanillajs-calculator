@@ -22,9 +22,20 @@ footer {
 	}
 
 	button {
-	font-size: 1.2em;
-	height: 50px;
-}
+		font-size: 1.2em;
+		height: 50px;
+	}
+
+	#screen {
+		font-size: 1.7em;
+		height: 50px;
+		width: 98%;
+		text-align: right;
+		border: 1px solid black;
+		padding-top: 10px;
+		padding-right: 5px;
+		font-family: sans-serif;
+	}
 }
 
 .display {
@@ -38,8 +49,8 @@ footer {
 }
 
 #screen {
-	font-size: 1.7em;
-	height: 50px;
+	font-size: 2em;
+	height: 90px;
 	width: 98%;
 	text-align: right;
 	border: 1px solid black;
@@ -51,7 +62,7 @@ footer {
 .buttons {
 	display: grid;
 	grid-template-columns: 1fr 1fr 1fr 1fr;
-	height: 60em;
+	height: 40em;
 }
 
 button {
