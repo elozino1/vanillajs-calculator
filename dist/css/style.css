@@ -1,5 +1,5 @@
 .main-container {
-	max-width: 40%;
+	max-width: 70%;
 	height: 60em;
 	border: 1px solid black;
 	padding: 0 10px 10px 10px;
@@ -46,6 +46,7 @@ footer {
 .buttons {
 	display: grid;
 	grid-template-columns: 1fr 1fr 1fr 1fr;
+	height: 60em;
 }
 
 button {
