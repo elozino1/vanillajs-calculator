@@ -1,5 +1,6 @@
 .main-container {
-	max-width: 80%;
+	max-width: 60%;
+	max-height: 60%;
 	border: 1px solid black;
 	padding: 0 10px 10px 10px;
 	border-radius: 10px;
