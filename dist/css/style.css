@@ -1,13 +1,13 @@
 .main-container {
 	max-width: 70%;
-	height: 50em;
+	height: 55em;
 	border: 1px solid black;
 	padding: 0 10px 10px 10px;
 	border-radius: 10px;
 }
 
 footer {
-		font-size: 1.5em;
+		font-size: 1.9em;
 }
 
 @media screen and (min-width: 992px) {
@@ -51,7 +51,7 @@ footer {
 .title {
 	font-family: monospace;
 	font-weight: bold;
-	font-size: 1.3em;
+	font-size: 1.6em;
 }
 
 #screen {
