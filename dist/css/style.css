@@ -70,7 +70,7 @@ footer {
 	display: grid;
 	grid-template-columns: 1fr 1fr 1fr 1fr;
 	height: 40em;
-	margin-top: 10px;
+	margin-top: 20px;
 }
 
 button {
